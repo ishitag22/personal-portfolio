@@ -2,8 +2,8 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p>
-        &copy; 2023. Made with ❤️ by{" "}
-        <a href="https://github.com/randilt">RandilT</a>.
+        &copy; Made with ❤️ by{" "}
+        <a href="https://github.com/ishitag22">Ishita</a>
       </p>
     </footer>
   );
