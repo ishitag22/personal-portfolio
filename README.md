@@ -1,4 +1,4 @@
-# My Developer Portfolio
+<!-- # My Developer Portfolio
 
 [Demo](https://rtharusha.netlify.app/)
 
@@ -45,4 +45,4 @@ The portfolio will be available at http://localhost:5173/ by default.
 - Edit the content inside the src/content folder.
 - I have divided the content into seperate files to make it easier as information.js (include data about user), projects.js(includes data about user's projects), skills.js (includes data about user's skills), socials.js(includes social links of user)
 
-### If you've found my project useful for your personal developer portfolio, I'd really appreciate it if you could include a link back to the project. It helps showcase the work and contributes to the community. Thanks a bunch!
+### If you've found my project useful for your personal developer portfolio, I'd really appreciate it if you could include a link back to the project. It helps showcase the work and contributes to the community. Thanks a bunch! -->
