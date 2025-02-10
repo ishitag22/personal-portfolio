@@ -21,7 +21,7 @@ const projects = [
   {
     name: "Newsque",
     description:
-      "Newsque is an interactive news app that delivers real-time global updates, offering diverse articles across multiple categories daily.",
+      "Newsque is a feature-rich news application that keeps users updated with real-time global news. It delivers a diverse range of articles across multiple categories daily, ensuring a seamless and engaging news-reading experience.",
     stack: ["Java", "News API", "Postman"],
     sourceCode: "https://github.com/ishitag22/News-App",
     img: "/newsque.png",

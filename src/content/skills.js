@@ -19,7 +19,7 @@
 
 
 const skills = [
-  "flutterimg.png",
+  "flutter.js",
   "dart.png",
   // "js.png",
   // "html.png",
