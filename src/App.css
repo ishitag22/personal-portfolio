@@ -294,10 +294,13 @@ footer {
   flex-wrap: wrap;
   gap: 40px;
 }
-.skill img {
-  max-width: 70px;
-  transition: 0.2s all ease-in-out;
-}
+ .skill-img {
+   width: auto;
+   height: 60px;
+   max-width: 70px;
+   object-fit: contain;
+   transition: 0.2s all ease-in-out;
+ }
 .skill img:hover {
   transform: scale(1.3);
 }
