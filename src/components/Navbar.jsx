@@ -28,9 +28,9 @@ const Navbar = (props) => {
           <li>
             <a href="#skills">Skills</a>
           </li>
-          {/* <li>
-            <a href="#blog">Blog</a>
-          </li> */}
+          <li>
+            <a href="https://drive.google.com/file/d/1y4V3T5Zwd17dzfCZ83pmA92zRORQgUsJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
+          </li>
           <li>
             <a href="#contact" className="navbar-btn">
               Contact Me
