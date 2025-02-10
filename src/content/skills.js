@@ -30,6 +30,6 @@ const skills = [
   "sql.png",
   "firebase.png",
   // "git.png",
-  // "github.png",
+  "github.png",
 ];
 export default skills;
